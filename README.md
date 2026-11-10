@@ -1,5 +1,7 @@
 # Hire-to-Retire: Dashboard de Analítica de Capital Humano
 
+🇬🇧 [Read in English](README.en.md)
+
 ![Dashboard](Dashboard-hire-to-retire.png)
 
 ![Análisis detallado](Analisis-detallado.png)
