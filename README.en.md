@@ -8,7 +8,7 @@
 
 Final project for the **Business Analytics I** course at CENFOTEC University.
 
-> ⚠️ **Disclaimer:** the data used in this project is **fictitious**. It was provided by the course for academic purposes and does not correspond to real employees or a real company.
+> ⚠️ **Disclaimer:** The data used in this project is **fictitious**. It was provided by the university for academic purposes and does not correspond to real employees or a real company.
 
 ## Files
 
