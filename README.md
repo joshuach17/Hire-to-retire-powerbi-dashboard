@@ -6,7 +6,7 @@
 
 Proyecto final del curso **Business Analytics I** de la Universidad CENFOTEC.
 
-> ⚠️ **Aviso:** los datos utilizados en este proyecto son **ficticios**. Fueron proporcionados por el curso con fines académicos y no corresponden a empleados ni a una empresa real.
+> ⚠️ **Aviso:** los datos utilizados en este proyecto son **ficticios**. Fueron proporcionados por la Universidad con fines académicos y no corresponden a empleados ni a una empresa real.
 
 ## Archivos
 - 📊 [Descargar archivo Power BI (.pbix)](Proyecto-final-Business-Analytics-I.pbix)
