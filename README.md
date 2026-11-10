@@ -10,6 +10,7 @@ Proyecto final del curso **Business Analytics I** de la Universidad CENFOTEC.
 
 ## Archivos
 - 📊 [Descargar archivo Power BI (.pbix)](Proyecto-final-Business-Analytics-I.pbix)
+- 📁 [Descargar Caso2_HireToRetire.xlsx](./data/Caso2_HireToRetire.xlsx?raw=true)
 
 ## Contexto
 Caso **Hire-to-Retire** de una empresa mediana (manufactura y tecnología) que ha visto aumentar su rotación de personal en los últimos trimestres. El Director de Recursos Humanos necesita explicar a la Gerencia General quién se está yendo, desde qué áreas y qué factores se asocian a la salida, para decidir dónde enfocar acciones de retención.
